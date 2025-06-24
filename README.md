@@ -1,5 +1,5 @@
 
-# 🇰🇪 Kenya's Public School Analysis – Data Cleaning & Interactive Dashboard
+# Kenya's Public School Analysis – Data Cleaning & Interactive Dashboard
 
 This project presents an end-to-end data analytics solution showcasing public school data across Kenya. The workflow spans data cleaning with MySQL, crafting calculated DAX measures, and designing a rich, interactive dashboard with advanced drill-down capabilities.
 
@@ -131,7 +131,7 @@ CALCULATE(
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](/dashboard.png)
+![Dashboard Screenshot](https://github.com/DennisMochoge/Kenya-Public-School-Analysis-SQL/blob/main/Dashboard.png)
 
 ---
 
